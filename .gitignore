@@ -1,0 +1,5 @@
+bot.db
+/venv/*
+.idea
+TestTask.session
+TestTask.session-journal
