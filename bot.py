@@ -2,9 +2,7 @@ from telethon import TelegramClient, events
 from telethon import Button
 from telethon.tl import custom
 from DataBase import *
-
-api_id = 677113
-api_hash = '8b9eca748769a9ab427cd9534bee8072'
+from config import *
 
 client = TelegramClient('TestTask', api_id, api_hash)
 
